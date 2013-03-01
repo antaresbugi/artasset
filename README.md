@@ -19,7 +19,7 @@ after that, you can import the database. *the database will i upload soon :)
 Difficulty
 ==========
 
-medium to expect. :)
+medium to expert. :)
 
 Lisence
 =======
